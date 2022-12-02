@@ -1,8 +1,9 @@
+![Web Developer](https://media-exp1.licdn.com/dms/image/D5616AQG_0-W7wgHBbQ/profile-displaybackgroundimage-shrink_350_1400/0/1670014842733?e=1675296000&v=beta&t=zpCs28T0GfEPfrC4D0SqyjltTJATv_tOEVEC0wJDPsI)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ayakub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ayakub-ali-8bb089223//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]
 ### Hi there 👋, i'm Md Ayakub Ali 
 #### Web Developer
-![Web Developer](https://media-exp1.licdn.com/dms/image/D5616AQG_0-W7wgHBbQ/profile-displaybackgroundimage-shrink_350_1400/0/1670014842733?e=1675296000&v=beta&t=zpCs28T0GfEPfrC4D0SqyjltTJATv_tOEVEC0wJDPsI)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ayakub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ayakub-ali-8bb089223//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]
 
 My name is Md. Ayakub Ali  I'm a Web developer . I describe myself as a passionate developer who loves coding, open source, and the web platform. Recently, I complete a Diploma in engineering Computer Technology. Mostly I work with JavaScript, React JS, Node JS, Express JS, MongoDB etc
 
