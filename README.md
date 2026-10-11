@@ -1,7 +1,9 @@
-### Hi there 👋, I'm MD. AYAKUB ALI
-![](https://media-exp1.licdn.com/dms/image/D5616AQG_0-W7wgHBbQ/profile-displaybackgroundimage-shrink_350_1400/0/1670014842733?e=1675900800&v=beta&t=UwVQY_h6GHRwunOK56u_njWANi0gFRySO3sB3rnRFEE)
+Hello, I'm
 
-I'm a Web developer. I describe myself as a passionate web developer who loves coding, open source, and the web platform.
+Md. Ayakub Ali
+CSE Student & Web Developer
+Diploma engineer in Computer Technology, now in the 8th semester of BSc in CSE. I work as an Assistant Technical Officer in a university CSE lab and build web applications with React, Node.js and MongoDB.
+![](https://media-exp1.licdn.com/dms/image/D5616AQG_0-W7wgHBbQ/profile-displaybackgroundimage-shrink_350_1400/0/1670014842733?e=1675900800&v=beta&t=UwVQY_h6GHRwunOK56u_njWANi0gFRySO3sB3rnRFEE)
 
 Skills: MongoDB/Express JS/Firebase/ React JS/JavaScript/Tailwind/Bootstrap/C
 
